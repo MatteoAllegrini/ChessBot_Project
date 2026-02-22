@@ -1,5 +1,3 @@
-# ChessBot_Project
-
 # ♟️ ChessBot – Thinking in Moves  
 
 A fully functional chess engine built from scratch in Python, featuring a complete board implementation and an engine powered by **Minimax with Alpha-Beta Pruning**.
